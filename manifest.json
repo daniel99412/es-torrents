@@ -1,0 +1,16 @@
+{
+ "id": "org.daniel.es-estatico",
+ "version": "1.0.0",
+ "name": "ES Torrents",
+ "description": "Series en espanol (Espana) servidas como torrents P2P.",
+ "resources": [
+  "stream"
+ ],
+ "types": [
+  "series"
+ ],
+ "idPrefixes": [
+  "tt"
+ ],
+ "catalogs": []
+}
